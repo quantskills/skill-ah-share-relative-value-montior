@@ -5,7 +5,7 @@ quantSkills:
   organization: QuantSkills
   repository: skill-ah-share-relative-value-monitor
   collection: cross-market-relative-value
-  license: MIT
+  license: GPL-3.0-only
   project_type: skill
   category: monitor
   tags:

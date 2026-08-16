@@ -7,6 +7,7 @@ name = "skill-ah-share-relative-value-monitor"
 version = "0.1.0"
 description = "A/H share relative value monitor"
 readme = "README.md"
+license = "GPL-3.0-only"
 requires-python = ">=3.10"
 dependencies = [
   "pandas>=2.0",

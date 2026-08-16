@@ -1,5 +1,7 @@
 # A/H Share Relative Value Monitor
 
+English version: [README.en.md](README.en.md)
+
 > 用自然语言研究同一家公司的 A 股与 H 股：**现在差多少、历史上算不算极端、整个 A/H 市场谁最贵/最便宜、两地谁更领先。**
 
 这个 Skill 面向 A+H 双重上市公司，自动处理汇率、共同交易日、历史分位和跨市场价格关系。
