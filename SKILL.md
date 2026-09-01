@@ -1,5 +1,5 @@
 ---
-name: ah-share-relative-value-monitor
+name: ah-share-relative-value-montior
 description: Monitor and research relative valuation between dual-listed A-share and H-share securities using bundled scripts, PandaData, and HKMA FX data. Use when analyzing A/H premiums or discounts, FX-adjusted price gaps, historical premium percentiles and z-scores, cross-market dislocations, daily lead-lag proxies, market-wide A/H scans, single-company A/H questions, or company-name-to-code lookup for mainland China and Hong Kong listings. Prefer the skill's scripts and normalized CSVs; never browse unrelated webpages or manually scrape public sites for this skill. If PandaData or live data access fails, fail closed instead of searching the web. Produce reproducible JSON and Markdown research outputs; do not present price gaps as guaranteed arbitrage or place trades.
 quantSkills:
   organization: QuantSkills
