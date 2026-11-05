@@ -111,3 +111,6 @@ Research and education only. This project does not provide personalized financia
 
 GPL-3.0-only. See `LICENSE`.
 
+
+
+Pandadata compatibility maintenance: [abgyjaguo](https://github.com/abgyjaguo). Existing authorship is retained.

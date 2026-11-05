@@ -206,3 +206,7 @@ python scripts/scan_snapshot.py examples/sample_snapshot.csv
 ```
 
 The example data are synthetic and exist only to demonstrate the computation contract.
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
